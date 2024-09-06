@@ -4,3 +4,5 @@
     * I have 2 dogs (Snoop and Sonny)
     * I live in Brooklyn
     * I have 2 brothers
+
+You can schedule an appointment with me through my Calendly Link
