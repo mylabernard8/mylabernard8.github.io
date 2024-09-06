@@ -1,5 +1,6 @@
 # My GitHub Pages Website
 
+## INTRODUCTION:
     My name is Myla Bernard and I use She/Her pronouns!
    
     My previous coding experience contains take two programs with 'Girls Who Code,' taking a Harvard Computer Science Class, as well as creating 2 websites completely from scratch (working on more right now.)
