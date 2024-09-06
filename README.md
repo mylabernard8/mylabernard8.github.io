@@ -1,8 +1,16 @@
 # My GitHub Pages Website
 
-    Fun Facts About Me:
-    * I have 2 dogs (Snoop and Sonny)
-    * I live in Brooklyn
-    * I have 2 brothers
+    My name is Myla Bernard and I use She/Her pronouns!
+   
+    My previous coding experience contains take two programs with 'Girls Who Code,' taking a Harvard Computer Science Class, as well as creating 2 websites completely from scratch (working on more right now.)
+    
+    Goals for this Class:
+    * Learn more about the Logistics 
+    * Explore different Computer Languages
+    * Learn tips to create a more advanced website
+    
+    The best thing I ate this summer was a meal I ate at an Indian Resturaunt called 'Dishoom' in London.
 
-You can schedule an appointment with me through my Calendly Link
+
+    **bold text**
+
